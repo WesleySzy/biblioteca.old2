@@ -1,0 +1,107 @@
+/*
+ fiz o download aquihttp://clowby.com/media
+------------------------------------------------------------------
+Typeface Embed
+------------------------------------------------------------------
+*/
+
+@font-face {
+    font-family: 'ProximaNovaLight';
+    src: url('Official Proxima Nova/proximanova-light-webfont.eot?#iefix') format('embedded-opentype')
+         url('Official Proxima Nova/proximanova-light-webfont.woff') format('woff')
+         url('Official Proxima Nova/proximanova-light-webfont.ttf') format('truetype')
+         url('Official Proxima Nova/proximanova-light-webfont.svg#ProximaNovaLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaLightIta';
+    src: url('Official Proxima Nova/proxima_nova_light_italic-webfont.eot?#iefix') format('embedded-opentype')
+         url('Official Proxima Nova/proxima_nova_light_italic-webfont.woff') format('woff')
+         url('Official Proxima Nova/proxima_nova_light_italic-webfont.ttf') format('truetype')
+         url('Official Proxima Nova/proxima_nova_light_italic-webfont.svg#ProximaNovaLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaRegularIta';
+    src: url('Official Proxima Nova/proxima_nova_regular_italic-webfont.eot?#iefix') format('embedded-opentype')
+         url('Official Proxima Nova/proxima_nova_regular_italic-webfont.woff') format('woff')
+         url('Official Proxima Nova/proxima_nova_regular_italic-webfont.ttf') format('truetype')
+         url('Official Proxima Nova/proxima_nova_regular_italic-webfont.svg#ProximaNovaLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaSemiboldIta';
+    src: url('Official Proxima Nova/proxima_nova_semibold_italic-webfont.eot?#iefix') format('embedded-opentype')
+         url('Official Proxima Nova/proxima_nova_semibold_italic-webfont.woff') format('woff')
+         url('Official Proxima Nova/proxima_nova_semibold_italic-webfont.ttf') format('truetype')
+         url('Official Proxima Nova/proxima_nova_semibold_italic-webfont.svg#ProximaNovaLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaBoldIta';
+    src: url('Official Proxima Nova/proxima_nova_bold_italic-webfont.eot?#iefix') format('embedded-opentype')
+         url('Official Proxima Nova/proxima_nova_bold_italic-webfont.woff') format('woff')
+         url('Official Proxima Nova/proxima_nova_bold_italic-webfont.ttf') format('truetype')
+         url('Official Proxima Nova/proxima_nova_bold_italic-webfont.svg#ProximaNovaLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaBold';
+    src: url('Official Proxima Nova/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype')
+         url('Official Proxima Nova/proximanova-bold-webfont.woff') format('woff')
+         url('Official Proxima Nova/proximanova-bold-webfont.ttf') format('truetype')
+         url('Official Proxima Nova/proximanova-bold-webfont.svg#ProximaNovaLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaRegular';
+    src: url('Official Proxima Nova/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype')
+         url('Official Proxima Nova/proximanova-regular-webfont.woff') format('woff')
+         url('Official Proxima Nova/proximanova-regular-webfont.ttf') format('truetype')
+         url('Official Proxima Nova/proximanova-regular-webfont.svg#ProximaNovaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaSemibold';
+    src: url('Official Proxima Nova/proximanova-semibold-webfont.eot?#iefix') format('embedded-opentype')
+         url('Official Proxima Nova/proximanova-semibold-webfont.woff') format('woff')
+         url('Official Proxima Nova/proximanova-semibold-webfont.ttf') format('truetype')
+         url('Official Proxima Nova/proximanova-semibold-webfont.svg#ProximaNovaSemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SumAllIconsRegular';
+    src: url('Official Proxima Nova/sa_icon-webfont.eot?#iefix') format('embedded-opentype')
+         url('Official Proxima Nova/sa_icon-webfont.woff') format('woff')
+         url('Official Proxima Nova/sa_icon-webfont.ttf') format('truetype')
+         url('Official Proxima Nova/sa_icon-webfont.svg#SumAllIconsRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SumAllPlatforms';
+    src: url('Official Proxima Nova/sa_plat-webfont.eot?#iefix') format('embedded-opentype')
+         url('Official Proxima Nova/sa_plat-webfont.woff') format('woff')
+         url('Official Proxima Nova/sa_plat-webfont.ttf') format('truetype')
+         url('Official Proxima Nova/sa_plat-webfont.svg#SumAllIconsRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
