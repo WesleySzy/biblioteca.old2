@@ -52,7 +52,7 @@
 </div>
 
 <h1 class="well" align="center">Listagem de Livros</h1>
- <div class="container-fluid">
+ <div style="width: 1300px; height: 500px; overflow-y: scroll;" class="container-fluid">
     <table class="table table-hover">
     <thead>
         <tr>
