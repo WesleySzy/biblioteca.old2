@@ -60,6 +60,7 @@ $consulta =mysqli_query($conexao, "SELECT * FROM livro");
    </div>
 </div>
 
+<div style="width: 1300px; height: 500px; overflow-y: scroll;" class="container-fluid">
 <table class="table table-bordered">
     <tr>
       <td>ISBN</td>
@@ -79,6 +80,7 @@ $consulta =mysqli_query($conexao, "SELECT * FROM livro");
     </tr>
     <?php } ?>
   </table>
+</div>
   <a href="../home.php" class="btn btn-large btn-block" type="button"">Voltar</a>
 </body>
 </html>
