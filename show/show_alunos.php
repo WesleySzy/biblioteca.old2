@@ -63,6 +63,7 @@ $consulta =mysqli_query($conexao, "SELECT * FROM aluno");
    </div>
 </div>
 
+<div style="width: 1300px; height: 500px; overflow-y: scroll;" class="container-fluid">	
 <table class="table table-bordered">
     <tr>
       <td>Nome Aluno</td>
@@ -81,6 +82,7 @@ $consulta =mysqli_query($conexao, "SELECT * FROM aluno");
     </tr>
     <?php } ?>
 </table>
+</div>
 <a href="../home.php" class="btn btn-large btn-block" type="button">Voltar</a>
 </body>
 </html>
