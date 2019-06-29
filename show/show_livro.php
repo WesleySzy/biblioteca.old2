@@ -60,7 +60,7 @@ $consulta =mysqli_query($conexao, "SELECT * FROM livro");
    </div>
 </div>
 
-<div style="width: 1300px; height: 500px; overflow-y: scroll;" class="container-fluid">
+<div overflow-y: scroll;" class="container-fluid">
 <table class="table table-bordered">
     <tr>
       <td>ISBN</td>
