@@ -63,7 +63,7 @@ $consulta =mysqli_query($conexao, "SELECT * FROM aluno");
    </div>
 </div>
 
-<div style="width: 1300px; height: 500px; overflow-y: scroll;" class="container-fluid">	
+<div overflow-y: scroll;" class="container-fluid">	
 <table class="table table-bordered">
     <tr>
       <td>Nome Aluno</td>
