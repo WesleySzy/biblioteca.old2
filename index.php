@@ -1,8 +1,6 @@
 <?php  
-// grab recaptcha library
-require_once "recaptchalib.php";
  
-session_start();  
+ session_start();  
  $host = "localhost";  
  $username = "root";  
  $password = "";  
@@ -77,13 +75,9 @@ session_start();
                      <input type="password" name="password" class="form-control" />  
                      <br />  
                      <input type="submit" name="login" class="btn btn-info" value="Login" />
-					 <div class="g-recaptcha"data-theme="dark" data-sitekey="6LfL8qYUAAAAAIkBfa_VjjtSzrJw3QrUPJQjbIEw"></div>
-                
-
-                </form>  
-           </div>  
-           <br />
-          
-      </body>  
+		</form>  
+             </div>  
+           <br/>
+         </body>  
  </html>
 
